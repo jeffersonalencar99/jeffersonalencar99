@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeffersonalencar99
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in full stack development (back-end and front-end)
 - 🌱 I’m currently learning programation
 - 💞️ I’m looking to collaborate on programation
 - 📫 How to reach me alencar.jefferson@gmail.com
